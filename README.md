@@ -1,2 +1,4 @@
-# To_do_list
-This is a type of to-do-list website using php,js and sql databse
+## PHP (PDO), MYSQL and JQuery AJAX Full Project from Scratch.
+
+► Subscribe Us:
+https://www.youtube.com/codingwithelias?sub_confirmation=1
